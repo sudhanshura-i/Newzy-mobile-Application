@@ -5,6 +5,6 @@ The application will act as a notification sender platform for the user(students
 Step1 - Download or Fork the repository.
 Step2 - Dowbload all the plugins.
 Step3 - Run these commands in your Terminal 
-- 1)"flutter pub get"
-- 2)"flutter pub upgrade"
-- 3)"flutter run main.dart"
+- 1)flutter pub get
+- 2)flutter pub upgrade
+- 3)flutter run main.dart
